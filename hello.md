@@ -1,4 +1,4 @@
-# superagent-playground
+# SuperAgent 演练场
 
 这个仓库用来验证 dsh-superagent 的端到端流程：提需求 → 开分支 → 改代码 → 提 PR。
 
