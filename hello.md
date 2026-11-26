@@ -5,4 +5,4 @@
 第一行测试内容：
 
 > 请把下面这句话里的错别字 "Recieve" 改成 "Receive"。
-> We Recieve your request and will reply within one business day.
+> We Receive your request and will reply within one business day.
